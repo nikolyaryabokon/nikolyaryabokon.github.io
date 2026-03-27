@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klixim\\source\\repos\\Task 4 Ryabokon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6F5226-73AC-4EF9-B49B-18B85E81D163}|Task 4 Ryabokon\\Task 4 Ryabokon.csproj|c:\\users\\klixim\\source\\repos\\task 4 ryabokon\\task 4 ryabokon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6F5226-73AC-4EF9-B49B-18B85E81D163}|Task 4 Ryabokon\\Task 4 Ryabokon.csproj|solutionrelative:task 4 ryabokon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6F5226-73AC-4EF9-B49B-18B85E81D163}|Task 4 Ryabokon\\Task 4 Ryabokon.csproj|c:\\users\\klixim\\source\\repos\\task 4 ryabokon\\task 4 ryabokon\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6F5226-73AC-4EF9-B49B-18B85E81D163}|Task 4 Ryabokon\\Task 4 Ryabokon.csproj|solutionrelative:task 4 ryabokon\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6F5226-73AC-4EF9-B49B-18B85E81D163}|Task 4 Ryabokon\\Task 4 Ryabokon.csproj|c:\\users\\klixim\\source\\repos\\task 4 ryabokon\\task 4 ryabokon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E6F5226-73AC-4EF9-B49B-18B85E81D163}|Task 4 Ryabokon\\Task 4 Ryabokon.csproj|solutionrelative:task 4 ryabokon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Task 4 Ryabokon\\Task 4 Ryabokon\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Task 4 Ryabokon\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Task 4 Ryabokon\\Task 4 Ryabokon\\Form1.Designer.cs",
+              "RelativeToolTip": "Task 4 Ryabokon\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:02:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Task 4 Ryabokon\\Task 4 Ryabokon\\Form1.cs",
+              "RelativeDocumentMoniker": "Task 4 Ryabokon\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Task 4 Ryabokon\\Task 4 Ryabokon\\Form1.cs",
+              "RelativeToolTip": "Task 4 Ryabokon\\Form1.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAowGoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:01:01.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\source\\repos\\Task 4 Ryabokon\\Task 4 Ryabokon\\Form1.cs",
+              "RelativeDocumentMoniker": "Task 4 Ryabokon\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Task 4 Ryabokon\\Task 4 Ryabokon\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task 4 Ryabokon\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T07:55:33.549Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

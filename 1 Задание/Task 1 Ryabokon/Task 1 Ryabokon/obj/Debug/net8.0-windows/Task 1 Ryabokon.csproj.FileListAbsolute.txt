@@ -1,0 +1,34 @@
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task_1_Ryabokon.Form1.resources
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.AssemblyInfoInputs.cache
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.AssemblyInfo.cs
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.exe
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.deps.json
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.runtimeconfig.json
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.dll
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.pdb
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.dll
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\refint\Task 1 Ryabokon.dll
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.pdb
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.genruntimeconfig.cache
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\ref\Task 1 Ryabokon.dll
+C:\Users\klixim\source\repos\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task_1_Ryabokon.Properties.Resources.resources
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.exe
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.deps.json
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.runtimeconfig.json
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.dll
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\bin\Debug\net8.0-windows\Task 1 Ryabokon.pdb
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task_1_Ryabokon.Form1.resources
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task_1_Ryabokon.Properties.Resources.resources
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.csproj.GenerateResource.cache
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.AssemblyInfoInputs.cache
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.AssemblyInfo.cs
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.csproj.CoreCompileInputs.cache
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.dll
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\refint\Task 1 Ryabokon.dll
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.pdb
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\Task 1 Ryabokon.genruntimeconfig.cache
+C:\Users\klixim\Desktop\Task 1 Ryabokon\Task 1 Ryabokon\obj\Debug\net8.0-windows\ref\Task 1 Ryabokon.dll

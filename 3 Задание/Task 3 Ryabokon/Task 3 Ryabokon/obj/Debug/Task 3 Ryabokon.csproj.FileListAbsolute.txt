@@ -1,0 +1,12 @@
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\obj\Debug\Task 3 Ryabokon.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\obj\Debug\Task_3_Ryabokon.Form1.resources
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\obj\Debug\Task_3_Ryabokon.Form2.resources
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\obj\Debug\Task_3_Ryabokon.Properties.Resources.resources
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\obj\Debug\Task 3 Ryabokon.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\obj\Debug\Task 3 Ryabokon.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\bin\Debug\Task 3 Ryabokon.exe.config
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\bin\Debug\Task 3 Ryabokon.exe
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\bin\Debug\Task 3 Ryabokon.pdb
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\obj\Debug\Task 3 Ryabokon.exe
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\obj\Debug\Task 3 Ryabokon.pdb
+C:\Users\klixim\source\repos\Task 3 Ryabokon\Task 3 Ryabokon\obj\Debug\Task 3 Ryabokon.exe.config

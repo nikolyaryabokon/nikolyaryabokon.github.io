@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klixim\\Desktop\\Task 1 Ryabokon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09CFBD15-56C8-479F-9341-EEFBA73A68EF}|Task 1 Ryabokon\\Task 1 Ryabokon.csproj|c:\\users\\klixim\\desktop\\task 1 ryabokon\\task 1 ryabokon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CFBD15-56C8-479F-9341-EEFBA73A68EF}|Task 1 Ryabokon\\Task 1 Ryabokon.csproj|solutionrelative:task 1 ryabokon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CFBD15-56C8-479F-9341-EEFBA73A68EF}|Task 1 Ryabokon\\Task 1 Ryabokon.csproj|C:\\Users\\klixim\\Desktop\\Task 1 Ryabokon\\task 1 ryabokon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09CFBD15-56C8-479F-9341-EEFBA73A68EF}|Task 1 Ryabokon\\Task 1 Ryabokon.csproj|solutionrelative:task 1 ryabokon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CFBD15-56C8-479F-9341-EEFBA73A68EF}|Task 1 Ryabokon\\Task 1 Ryabokon.csproj|c:\\users\\klixim\\desktop\\task 1 ryabokon\\task 1 ryabokon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CFBD15-56C8-479F-9341-EEFBA73A68EF}|Task 1 Ryabokon\\Task 1 Ryabokon.csproj|solutionrelative:task 1 ryabokon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CFBD15-56C8-479F-9341-EEFBA73A68EF}|Task 1 Ryabokon\\Task 1 Ryabokon.csproj|c:\\users\\klixim\\desktop\\task 1 ryabokon\\task 1 ryabokon\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CFBD15-56C8-479F-9341-EEFBA73A68EF}|Task 1 Ryabokon\\Task 1 Ryabokon.csproj|solutionrelative:task 1 ryabokon\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 1 Ryabokon\\Task 1 Ryabokon\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Task 1 Ryabokon\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 1 Ryabokon\\Task 1 Ryabokon\\Form1.Designer.cs",
+              "RelativeToolTip": "Task 1 Ryabokon\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:37:00.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 1 Ryabokon\\Task 1 Ryabokon\\Program.cs",
+              "RelativeDocumentMoniker": "Task 1 Ryabokon\\Program.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 1 Ryabokon\\Task 1 Ryabokon\\Program.cs",
+              "RelativeToolTip": "Task 1 Ryabokon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:36:16.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 1 Ryabokon\\Task 1 Ryabokon\\Form1.cs",
+              "RelativeDocumentMoniker": "Task 1 Ryabokon\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 1 Ryabokon\\Task 1 Ryabokon\\Form1.cs",
+              "RelativeToolTip": "Task 1 Ryabokon\\Form1.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAuwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:36:08.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 1 Ryabokon\\Task 1 Ryabokon\\Form1.cs",
+              "RelativeDocumentMoniker": "Task 1 Ryabokon\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Task 1 Ryabokon\\Task 1 Ryabokon\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Task 1 Ryabokon\\Task 1 Ryabokon\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:35:52.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

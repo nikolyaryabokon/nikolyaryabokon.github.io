@@ -1,0 +1,10 @@
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\bin\Debug\Task 2 Ryabokon.exe.config
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\bin\Debug\Task 2 Ryabokon.exe
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\bin\Debug\Task 2 Ryabokon.pdb
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\obj\Debug\Task 2 Ryabokon.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\obj\Debug\Task_2_Ryabokon.Form1.resources
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\obj\Debug\Task_2_Ryabokon.Properties.Resources.resources
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\obj\Debug\Task 2 Ryabokon.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\obj\Debug\Task 2 Ryabokon.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\obj\Debug\Task 2 Ryabokon.exe
+C:\Users\klixim\source\repos\Task 2 Ryabokon\Task 2 Ryabokon\obj\Debug\Task 2 Ryabokon.pdb

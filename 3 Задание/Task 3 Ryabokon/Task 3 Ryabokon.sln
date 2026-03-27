@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3 Ryabokon", "Task 3 Ryabokon\Task 3 Ryabokon.csproj", "{028CEBF5-768A-45F8-A22D-F62EE2801BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028CEBF5-768A-45F8-A22D-F62EE2801BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028CEBF5-768A-45F8-A22D-F62EE2801BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028CEBF5-768A-45F8-A22D-F62EE2801BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028CEBF5-768A-45F8-A22D-F62EE2801BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CD8145-8E22-44B7-8ACA-7E5ED5448502}
+	EndGlobalSection
+EndGlobal
