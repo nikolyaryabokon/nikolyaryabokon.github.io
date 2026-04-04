@@ -1,0 +1,15 @@
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task 5 R.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task_5_R.Form1.resources
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task_5_R.FormResult.resources
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task_5_R.Properties.Resources.resources
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task 5 R.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task 5 R.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\bin\Debug\Task 5 R.exe.config
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\bin\Debug\Task 5 R.exe
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\bin\Debug\Task 5 R.pdb
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\bin\Debug\DictionaryLib.dll
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\bin\Debug\DictionaryLib.pdb
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task 5 R.csproj.Up2Date
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task 5 R.exe
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task 5 R.pdb
+C:\Users\klixim\source\repos\Task 5 R\Task 5 R\obj\Debug\Task 5 R.exe.config

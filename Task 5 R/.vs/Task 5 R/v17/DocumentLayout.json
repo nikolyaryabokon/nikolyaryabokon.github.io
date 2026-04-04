@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klixim\\Desktop\\Task 5 R\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41629CD8-3AAA-4439-BED0-F65BE361B6D2}|NUnit\\Task_5_R_Tests.csproj|c:\\users\\klixim\\desktop\\task 5 r\\nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41629CD8-3AAA-4439-BED0-F65BE361B6D2}|NUnit\\Task_5_R_Tests.csproj|solutionrelative:nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41629CD8-3AAA-4439-BED0-F65BE361B6D2}|NUnit\\NUnit.csproj|C:\\Users\\klixim\\Desktop\\Task 5 R\\nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41629CD8-3AAA-4439-BED0-F65BE361B6D2}|NUnit\\NUnit.csproj|solutionrelative:nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6842384-707D-4566-A897-F212E3C670CC}|DictionaryLib\\DictionaryLib.csproj|C:\\Users\\klixim\\Desktop\\Task 5 R\\dictionarylib\\slovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6842384-707D-4566-A897-F212E3C670CC}|DictionaryLib\\DictionaryLib.csproj|solutionrelative:dictionarylib\\slovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|C:\\Users\\klixim\\Desktop\\Task 5 R\\task 5 r\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|solutionrelative:task 5 r\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|c:\\users\\klixim\\desktop\\task 5 r\\task 5 r\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|solutionrelative:task 5 r\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|C:\\Users\\klixim\\Desktop\\Task 5 R\\task 5 r\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|solutionrelative:task 5 r\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|C:\\Users\\klixim\\Desktop\\Task 5 R\\task 5 r\\formresult.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|solutionrelative:task 5 r\\formresult.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|C:\\Users\\klixim\\Desktop\\Task 5 R\\task 5 r\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|solutionrelative:task 5 r\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|C:\\Users\\klixim\\Desktop\\Task 5 R\\task 5 r\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF20DA0E-BCF5-40E3-BDC2-0B305BEF5511}|Task 5 R\\Task 5 R.csproj|solutionrelative:task 5 r\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 5 R\\NUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 5 R\\NUnit\\UnitTest1.cs",
+              "RelativeToolTip": "NUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAowJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T20:58:37.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slovar.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 5 R\\DictionaryLib\\Slovar.cs",
+              "RelativeDocumentMoniker": "DictionaryLib\\Slovar.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 5 R\\DictionaryLib\\Slovar.cs",
+              "RelativeToolTip": "DictionaryLib\\Slovar.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:58:33.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormResult.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\FormResult.Designer.cs",
+              "RelativeDocumentMoniker": "Task 5 R\\FormResult.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\FormResult.Designer.cs",
+              "RelativeToolTip": "Task 5 R\\FormResult.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:57:06.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Task 5 R\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\Form1.Designer.cs",
+              "RelativeToolTip": "Task 5 R\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:56:50.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormResult.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\FormResult.cs",
+              "RelativeDocumentMoniker": "Task 5 R\\FormResult.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\FormResult.cs",
+              "RelativeToolTip": "Task 5 R\\FormResult.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:55:18.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\FormResult.cs",
+              "RelativeDocumentMoniker": "Task 5 R\\FormResult.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Task 5 R\\Task 5 R\\FormResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Task 5 R\\Task 5 R\\FormResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:55:17.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 5 R\\NUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 5 R\\NUnit\\UnitTest1.cs",
+              "RelativeToolTip": "NUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:54:28.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\Form1.cs",
+              "RelativeDocumentMoniker": "Task 5 R\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\Form1.cs",
+              "RelativeToolTip": "Task 5 R\\Form1.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAswMAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:52:50.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\Form1.cs",
+              "RelativeDocumentMoniker": "Task 5 R\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 5 R\\Task 5 R\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task 5 R\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:52:47.764Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

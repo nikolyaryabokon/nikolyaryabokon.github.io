@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klixim\\Desktop\\Task 7 R\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|c:\\users\\klixim\\desktop\\task 7 r\\task 7 r\\figures\\isoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\figures\\isoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|C:\\Users\\klixim\\Desktop\\Task 7 R\\task 7 r\\figures\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\figures\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|C:\\Users\\klixim\\Desktop\\Task 7 R\\task 7 r\\stroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\stroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|C:\\Users\\klixim\\Desktop\\Task 7 R\\task 7 r\\stackmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\stackmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|C:\\Users\\klixim\\Desktop\\Task 7 R\\task 7 r\\figures\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\figures\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|c:\\users\\klixim\\desktop\\task 7 r\\task 7 r\\figures\\rectanglefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\figures\\rectanglefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|C:\\Users\\klixim\\Desktop\\Task 7 R\\task 7 r\\figures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\figures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|c:\\users\\klixim\\desktop\\task 7 r\\task 7 r\\figures\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\figures\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|c:\\users\\klixim\\desktop\\task 7 r\\task 7 r\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|C:\\Users\\klixim\\Desktop\\Task 7 R\\task 7 r\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|C:\\Users\\klixim\\Desktop\\Task 7 R\\task 7 r\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|C:\\Users\\klixim\\Desktop\\Task 7 R\\task 7 r\\selectionmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99487C7F-1C6D-479F-A6FD-2BC3DAE39189}|Task 7 R\\Task 7 R.csproj|solutionrelative:task 7 r\\selectionmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IsoscelesTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\IsoscelesTrapezoid.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\Figures\\IsoscelesTrapezoid.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\IsoscelesTrapezoid.cs",
+              "RelativeToolTip": "Task 7 R\\Figures\\IsoscelesTrapezoid.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:08:51.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RectangleFigure.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\RectangleFigure.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\Figures\\RectangleFigure.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\RectangleFigure.cs",
+              "RelativeToolTip": "Task 7 R\\Figures\\RectangleFigure.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:07:30.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\Figure.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\Figures\\Figure.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\Figure.cs",
+              "RelativeToolTip": "Task 7 R\\Figures\\Figure.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:06:58.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\MainForm.Designer.cs",
+              "RelativeToolTip": "Task 7 R\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:46:58.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StackMemory.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\StackMemory.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\StackMemory.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\StackMemory.cs",
+              "RelativeToolTip": "Task 7 R\\StackMemory.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA7wEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:32:09.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stroke.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Stroke.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\Stroke.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Stroke.cs",
+              "RelativeToolTip": "Task 7 R\\Stroke.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:32:03.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\MainForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Task 7 R\\Task 7 R\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Task 7 R\\Task 7 R\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:28:57.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ellipse.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\Ellipse.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\Figures\\Ellipse.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\Ellipse.cs",
+              "RelativeToolTip": "Task 7 R\\Figures\\Ellipse.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:31:08.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\Square.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\Figures\\Square.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\Square.cs",
+              "RelativeToolTip": "Task 7 R\\Figures\\Square.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:31:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectionMarker.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\SelectionMarker.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\SelectionMarker.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\SelectionMarker.cs",
+              "RelativeToolTip": "Task 7 R\\SelectionMarker.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:32:15.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\MainForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\MainForm.cs",
+              "RelativeToolTip": "Task 7 R\\MainForm.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:30:47.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\Circle.cs",
+              "RelativeDocumentMoniker": "Task 7 R\\Figures\\Circle.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 7 R\\Task 7 R\\Figures\\Circle.cs",
+              "RelativeToolTip": "Task 7 R\\Figures\\Circle.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:31:01.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

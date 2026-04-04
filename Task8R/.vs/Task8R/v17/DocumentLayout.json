@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klixim\\Desktop\\Task8R\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|C:\\Users\\klixim\\Desktop\\Task8R\\task8r\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|solutionrelative:task8r\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|c:\\users\\klixim\\desktop\\task8r\\task8r\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|solutionrelative:task8r\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|C:\\Users\\klixim\\Desktop\\Task8R\\task8r\\resultsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|solutionrelative:task8r\\resultsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|C:\\Users\\klixim\\Desktop\\Task8R\\task8r\\authform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|solutionrelative:task8r\\authform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|C:\\Users\\klixim\\Desktop\\Task8R\\task8r\\resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|solutionrelative:task8r\\resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|c:\\users\\klixim\\desktop\\task8r\\task8r\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|solutionrelative:task8r\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|C:\\Users\\klixim\\Desktop\\Task8R\\task8r\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|solutionrelative:task8r\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|C:\\Users\\klixim\\Desktop\\Task8R\\task8r\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|solutionrelative:task8r\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|C:\\Users\\klixim\\Desktop\\Task8R\\task8r\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{936BC29F-CF7B-4BEA-A539-F5EE65727C91}|Task8R\\Task8R.csproj|solutionrelative:task8r\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthForm.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\AuthForm.cs",
+              "RelativeDocumentMoniker": "Task8R\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\AuthForm.cs",
+              "RelativeToolTip": "Task8R\\AuthForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:13:48.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\ResultsForm.cs",
+              "RelativeDocumentMoniker": "Task8R\\ResultsForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\ResultsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task8R\\ResultsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T20:42:23.051Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\AuthForm.Designer.cs",
+              "RelativeDocumentMoniker": "Task8R\\AuthForm.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\AuthForm.Designer.cs",
+              "RelativeToolTip": "Task8R\\AuthForm.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T20:44:47.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\ResultsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Task8R\\ResultsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\ResultsForm.Designer.cs",
+              "RelativeToolTip": "Task8R\\ResultsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T20:45:04.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\Form1.cs",
+              "RelativeDocumentMoniker": "Task8R\\Form1.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\Form1.cs",
+              "RelativeToolTip": "Task8R\\Form1.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAowEkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T20:40:47.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\Program.cs",
+              "RelativeDocumentMoniker": "Task8R\\Program.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\Program.cs",
+              "RelativeToolTip": "Task8R\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T20:41:05.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\Form1.resx",
+              "RelativeDocumentMoniker": "Task8R\\Form1.resx",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\Form1.resx",
+              "RelativeToolTip": "Task8R\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-03T20:47:18.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\GameResult.cs",
+              "RelativeDocumentMoniker": "Task8R\\GameResult.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\GameResult.cs",
+              "RelativeToolTip": "Task8R\\GameResult.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T20:41:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Task8R\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task8R\\Task8R\\Form1.Designer.cs",
+              "RelativeToolTip": "Task8R\\Form1.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAIAwwCcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T20:44:17.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

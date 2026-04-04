@@ -1,0 +1,6 @@
+C:\Users\klixim\source\repos\Task 5 R\DictionaryLib\bin\Debug\DictionaryLib.dll
+C:\Users\klixim\source\repos\Task 5 R\DictionaryLib\bin\Debug\DictionaryLib.pdb
+C:\Users\klixim\source\repos\Task 5 R\DictionaryLib\obj\Debug\DictionaryLib.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Task 5 R\DictionaryLib\obj\Debug\DictionaryLib.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Task 5 R\DictionaryLib\obj\Debug\DictionaryLib.dll
+C:\Users\klixim\source\repos\Task 5 R\DictionaryLib\obj\Debug\DictionaryLib.pdb

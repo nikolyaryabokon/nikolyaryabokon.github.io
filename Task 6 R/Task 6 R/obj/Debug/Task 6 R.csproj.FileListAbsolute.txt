@@ -1,0 +1,26 @@
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\bin\Debug\Task 6 R.exe.config
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\bin\Debug\Task 6 R.exe
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\bin\Debug\Task 6 R.pdb
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task 6 R.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task_6_R.AdminForm.resources
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task_6_R.GameForm.resources
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task_6_R.MainForm.resources
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task_6_R.Properties.Resources.resources
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task 6 R.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task 6 R.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task 6 R.exe
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task 6 R.pdb
+C:\Users\klixim\source\repos\Task 6 R\Task 6 R\obj\Debug\Task 6 R.exe.config
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\bin\Debug\Task 6 R.exe.config
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\bin\Debug\Task 6 R.exe
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\bin\Debug\Task 6 R.pdb
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task 6 R.csproj.AssemblyReference.cache
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task 6 R.exe.config
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task_6_R.AdminForm.resources
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task_6_R.GameForm.resources
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task_6_R.MainForm.resources
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task_6_R.Properties.Resources.resources
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task 6 R.csproj.GenerateResource.cache
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task 6 R.csproj.CoreCompileInputs.cache
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task 6 R.exe
+C:\Users\klixim\Desktop\Task 6 R\Task 6 R\obj\Debug\Task 6 R.pdb

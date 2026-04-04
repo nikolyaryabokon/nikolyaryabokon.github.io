@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klixim\\Desktop\\Task 6 R\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|c:\\users\\klixim\\desktop\\task 6 r\\task 6 r\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|C:\\Users\\klixim\\Desktop\\Task 6 R\\task 6 r\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E38F85-EB2D-4A02-9D95-06FDD8FECC1D}|Task 6 R\\Task 6 R.csproj|solutionrelative:task 6 r\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\GameForm.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\GameForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\GameForm.cs",
+              "RelativeToolTip": "Task 6 R\\GameForm.cs",
+              "ViewState": "AgIAAA0CAAAAAAAAAAAwwCUCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:13:10.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\MainForm.Designer.cs",
+              "RelativeToolTip": "Task 6 R\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:12:53.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\MainForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task 6 R\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:08:26.181Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\MainForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\MainForm.cs",
+              "RelativeToolTip": "Task 6 R\\MainForm.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAswI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:09:48.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task 6 R\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:13:43.173Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\AdminForm.cs",
+              "RelativeToolTip": "Task 6 R\\AdminForm.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAswOkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:13:44.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\Question.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\Question.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\Question.cs",
+              "RelativeToolTip": "Task 6 R\\Question.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:10:25.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\GameForm.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\GameForm.cs",
+              "ToolTip": "C:\\Users\\klixim\\source\\repos\\Task 6 R\\Task 6 R\\GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Task 6 R\\Task 6 R\\GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:13:09.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\GameForm.Designer.cs",
+              "RelativeToolTip": "Task 6 R\\GameForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:13:31.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\AdminForm.Designer.cs",
+              "RelativeToolTip": "Task 6 R\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:13:58.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\Program.cs",
+              "RelativeDocumentMoniker": "Task 6 R\\Program.cs",
+              "ToolTip": "C:\\Users\\klixim\\Desktop\\Task 6 R\\Task 6 R\\Program.cs",
+              "RelativeToolTip": "Task 6 R\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:10:11.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

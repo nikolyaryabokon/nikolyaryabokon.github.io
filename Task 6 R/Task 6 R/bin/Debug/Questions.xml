@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<russian_language>
+  <topic name="Грамматика">
+    <level difficulty="1">
+      <question text="Вставь букву: с__бака" type="grammar" correct="о">
+        <image src="Images/dog.jpg" />
+        <answer>а</answer>
+        <answer>о</answer>
+        <answer>и</answer>
+      </question>
+      <question text="Вставь букву: к__рова" type="grammar" correct="о">
+        <image src="" />
+        <answer>а</answer>
+        <answer>о</answer>
+        <answer>е</answer>
+      </question>
+      <question text="Вставь букву: м__локо" type="grammar" correct="о">
+        <image src="" />
+        <answer>а</answer>
+        <answer>о</answer>
+        <answer>е</answer>
+      </question>
+      <question text="Вставь букву: в__робей" type="grammar" correct="о">
+        <image src="" />
+        <answer>а</answer>
+        <answer>о</answer>
+        <answer>и</answer>
+      </question>
+      <question text="Вставь букву: п__нал" type="grammar" correct="е">
+        <image src="" />
+        <answer>и</answer>
+        <answer>е</answer>
+        <answer>я</answer>
+      </question>
+    </level>
+    <level difficulty="2">
+      <question text="Вставь букву: пр__красный" type="grammar" correct="е">
+        <image src="" />
+        <answer>и</answer>
+        <answer>е</answer>
+        <answer>я</answer>
+      </question>
+    </level>
+  </topic>
+  <topic name="Ударения">
+    <level difficulty="1">
+      <question text="звОнит" type="stress" correct="о">
+        <image src="" />
+        <answer>о</answer>
+        <answer>и</answer>
+      </question>
+      <question text="катАлог" type="stress" correct="а">
+        <image src="" />
+        <answer>а</answer>
+        <answer>о</answer>
+      </question>
+    </level>
+  </topic>
+  <topic name="Окончания">
+    <level difficulty="1">
+      <question text="Нет (туфля)" type="ending" correct="и">
+        <image src="" />
+        <answer>и</answer>
+        <answer>ю</answer>
+        <answer>а</answer>
+      </question>
+    </level>
+  </topic>
+</russian_language>

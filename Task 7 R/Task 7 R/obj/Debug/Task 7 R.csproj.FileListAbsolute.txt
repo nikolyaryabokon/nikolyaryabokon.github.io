@@ -1,0 +1,22 @@
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\obj\Debug\Task 7 R.csproj.AssemblyReference.cache
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\obj\Debug\Task_7_R.MainForm.resources
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\obj\Debug\Task_7_R.Properties.Resources.resources
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\obj\Debug\Task 7 R.csproj.GenerateResource.cache
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\obj\Debug\Task 7 R.csproj.CoreCompileInputs.cache
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\bin\Debug\Task 7 R.exe.config
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\bin\Debug\Task 7 R.exe
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\bin\Debug\Task 7 R.pdb
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\obj\Debug\Task 7 R.exe
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\obj\Debug\Task 7 R.pdb
+C:\Users\klixim\source\repos\Task 7 R\Task 7 R\obj\Debug\Task 7 R.exe.config
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\bin\Debug\Task 7 R.exe.config
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\bin\Debug\Task 7 R.exe
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\bin\Debug\Task 7 R.pdb
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\obj\Debug\Task 7 R.csproj.AssemblyReference.cache
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\obj\Debug\Task 7 R.exe.config
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\obj\Debug\Task_7_R.MainForm.resources
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\obj\Debug\Task_7_R.Properties.Resources.resources
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\obj\Debug\Task 7 R.csproj.GenerateResource.cache
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\obj\Debug\Task 7 R.csproj.CoreCompileInputs.cache
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\obj\Debug\Task 7 R.exe
+C:\Users\klixim\Desktop\Task 7 R\Task 7 R\obj\Debug\Task 7 R.pdb
